@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EJERCICIO2">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp"
+        tools:ignore="MissingConstraints">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight=".5"
+            android:background="@android:color/holo_blue_dark"
+            app:srcCompat="@drawable/perrito" />
+
+        <TextView
+            android:id="@+id/textViewLARGO"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight=".5"
+            android:scrollbars="vertical"
+            android:text="@string/lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_integer_vitae_nibh_nec_turpis_mollis_suscipit_sed_euismod_mi_eu_augue_ultrices_luctus_eleifend_est_vestibulum_interdum_et_malesuada_fames_ac_ante_ipsum_primis_in_faucibus_donec_nec_viverra_libero_aenean_ullamcorper_magna_non_tellus_iaculis_ultricies_morbi_egestas_sem_nisl_at_sagittis_nibh_fermentum_nec_ut_quis_diam_et_magna_convallis_congue_in_eget_dui_nam_tincidunt_tellus_eu_gravida_tincidunt_sed_dapibus_pellentesque_tellus_ut_vulputate_phasellus_scelerisque_sem_et_imperdiet_tempor_lectus_massa_volutpat_velit_vel_tincidunt_magna_diam_non_urna_quisque_nec_urna_vehicula_tristique_ex_eu_commodo_orci_aliquam_fringilla_volutpat_varius_donec_eu_libero_vestibulum_posuere_turpis_id_fringilla_lacus_suspendisse_in_vehicula_neque_maecenas_blandit_purus_vel_nibh_elementum_aliquam_nam_sed_elementum_nibh_suspendisse_dapibus_arcu_vehicula_hendrerit_fringilla_curabitur_congue_quam_eu_rutrum_pharetra_suspendisse_accumsan_ipsum_laoreet_sodales_dolor_quis_viverra_lacus_nunc_congue_nulla_in_cursus_finibus_nulla_sit_amet_neque_condimentum_sagittis_diam_porta_malesuada_erat_fusce_fringilla_nisl_nunc_quis_maximus_odio_hendrerit_eu_suspendisse_quis_auctor_mi_interdum_et_malesuada_fames_ac_ante_ipsum_primis_in_faucibus_ut_a_malesuada_tellus_maecenas_consequat_sapien_sit_amet_ultricies_tincidunt_mauris_urna_varius_orci_id_cursus_nisl_leo_sed_magna_nulla_ornare_sit_amet_ante_eu_condimentum_duis_venenatis_consectetur_tortor_varius_tincidunt_nullam_auctor_malesuada_ornare_quisque_molestie_orci_eros_vel_sollicitudin_nisl_elementum_quis_suspendisse_at_lectus_est_aenean_non_arcu_quis_sapien_facilisis_maximus_praesent_auctor_malesuada_velit_ultricies_ullamcorper_ante_ullamcorper_eu_etiam_ipsum_ipsum_congue_eget_venenatis_a_tincidunt_eu_ex_cras_semper_vestibulum_laoreet_orci_varius_natoque_penatibus_et_magnis_dis_parturient_montes_nascetur_ridiculus_mus_donec_tristique_lorem_a_mi_consequat_ultricies_etiam_tortor_urna_semper_vitae_sapien_a_dapibus_gravida_lacus_in_hac_habitasse_platea_dictumst" />
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

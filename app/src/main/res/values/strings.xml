@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ANDROID</string>
+    <string-array name="turno">
+        <item>Mañana</item>
+        <item>Tarde</item>
+        <item>Noche</item>
+    </string-array>
+
+    <string-array name="estado">
+        <item>Soltero</item>
+        <item>Casado</item>
+        <item>Viudo</item>
+        <item>Divorciado</item>
+    </string-array>
+
+    <string-array name="estudio">
+        <item>Doctor</item>
+        <item>Magister</item>
+        <item>Licenciado</item>
+    </string-array>
+
+    <string name="contrase_a">Contraseña</string>
+    <string name="nombre">Nombre</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="relleno">relleno</string>
+    <string name="contrase_a2">Contraseña</string>
+    <string name="relleno2">relleno</string>
+    <string name="usuario2">Usuario</string>
+
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_integer_vitae_nibh_nec_turpis_mollis_suscipit_sed_euismod_mi_eu_augue_ultrices_luctus_eleifend_est_vestibulum_interdum_et_malesuada_fames_ac_ante_ipsum_primis_in_faucibus_donec_nec_viverra_libero_aenean_ullamcorper_magna_non_tellus_iaculis_ultricies_morbi_egestas_sem_nisl_at_sagittis_nibh_fermentum_nec_ut_quis_diam_et_magna_convallis_congue_in_eget_dui_nam_tincidunt_tellus_eu_gravida_tincidunt_sed_dapibus_pellentesque_tellus_ut_vulputate_phasellus_scelerisque_sem_et_imperdiet_tempor_lectus_massa_volutpat_velit_vel_tincidunt_magna_diam_non_urna_quisque_nec_urna_vehicula_tristique_ex_eu_commodo_orci_aliquam_fringilla_volutpat_varius_donec_eu_libero_vestibulum_posuere_turpis_id_fringilla_lacus_suspendisse_in_vehicula_neque_maecenas_blandit_purus_vel_nibh_elementum_aliquam_nam_sed_elementum_nibh_suspendisse_dapibus_arcu_vehicula_hendrerit_fringilla_curabitur_congue_quam_eu_rutrum_pharetra_suspendisse_accumsan_ipsum_laoreet_sodales_dolor_quis_viverra_lacus_nunc_congue_nulla_in_cursus_finibus_nulla_sit_amet_neque_condimentum_sagittis_diam_porta_malesuada_erat_fusce_fringilla_nisl_nunc_quis_maximus_odio_hendrerit_eu_suspendisse_quis_auctor_mi_interdum_et_malesuada_fames_ac_ante_ipsum_primis_in_faucibus_ut_a_malesuada_tellus_maecenas_consequat_sapien_sit_amet_ultricies_tincidunt_mauris_urna_varius_orci_id_cursus_nisl_leo_sed_magna_nulla_ornare_sit_amet_ante_eu_condimentum_duis_venenatis_consectetur_tortor_varius_tincidunt_nullam_auctor_malesuada_ornare_quisque_molestie_orci_eros_vel_sollicitudin_nisl_elementum_quis_suspendisse_at_lectus_est_aenean_non_arcu_quis_sapien_facilisis_maximus_praesent_auctor_malesuada_velit_ultricies_ullamcorper_ante_ullamcorper_eu_etiam_ipsum_ipsum_congue_eget_venenatis_a_tincidunt_eu_ex_cras_semper_vestibulum_laoreet_orci_varius_natoque_penatibus_et_magnis_dis_parturient_montes_nascetur_ridiculus_mus_donec_tristique_lorem_a_mi_consequat_ultricies_etiam_tortor_urna_semper_vitae_sapien_a_dapibus_gravida_lacus_in_hac_habitasse_platea_dictumst">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae nibh nec turpis mollis suscipit. Sed euismod mi eu augue ultrices, luctus eleifend est vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec nec viverra libero. Aenean ullamcorper magna non tellus iaculis ultricies. Morbi egestas sem nisl, at sagittis nibh fermentum nec. Ut quis diam et magna convallis congue in eget dui. Nam tincidunt tellus eu gravida tincidunt. Sed dapibus pellentesque tellus ut vulputate. Phasellus scelerisque, sem et imperdiet tempor, lectus massa volutpat velit, vel tincidunt magna diam non urna. Quisque nec urna vehicula, tristique ex eu, commodo orci. Aliquam fringilla volutpat varius. Donec eu libero vestibulum, posuere turpis id, fringilla lacus. Suspendisse in vehicula neque. Maecenas blandit purus vel nibh elementum aliquam. Nam sed elementum nibh. Suspendisse dapibus arcu vehicula hendrerit fringilla. Curabitur congue quam eu rutrum pharetra. Suspendisse accumsan ipsum laoreet, sodales dolor quis, viverra lacus. Nunc congue nulla in cursus finibus. Nulla sit amet neque condimentum, sagittis diam porta, malesuada erat. Fusce fringilla nisl nunc, quis maximus odio hendrerit eu. Suspendisse quis auctor mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut a malesuada tellus. Maecenas consequat, sapien sit amet ultricies tincidunt, mauris urna varius orci, id cursus nisl leo sed magna. Nulla ornare sit amet ante eu condimentum. Duis venenatis consectetur tortor varius tincidunt. Nullam auctor malesuada ornare. Quisque molestie orci eros, vel sollicitudin nisl elementum quis. Suspendisse at lectus est. Aenean non arcu quis sapien facilisis maximus. Praesent auctor malesuada velit, ultricies ullamcorper ante ullamcorper eu. Etiam ipsum ipsum, congue eget venenatis a, tincidunt eu ex. Cras semper vestibulum laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec tristique lorem a mi consequat ultricies. Etiam tortor urna, semper vitae sapien a, dapibus gravida lacus. In hac habitasse platea dictumst.</string>
+
+
+    <string name="ejercicio_2">Ejercicio 2</string>
+    <string name="ejercicio_1">Ejercicio 1</string>
+    <string name="ejercicio_3">Ejercicio 3</string>
+</resources>
